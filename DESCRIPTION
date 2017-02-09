@@ -1,0 +1,12 @@
+Package: OSeM
+Type: Package
+Title: Analysis of observation data from senseBox project and openSenseMap.org
+Version: 0.1.0
+Date: 2017-02-07
+Author: Institute for Geoinformatics, University of Muenster
+Maintainer: Jan Wirwahn <jan.wirwahn@uni-muenster.de>
+Description: This package allows to retreive sensor data from the senseBox project and provides some methods for analysis.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
